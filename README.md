@@ -11,9 +11,14 @@ pkg install git
 
 
 ```
+git clone https://github.com/shahid2005a/digitalcyber.git
+
+
 ```
+cd digitalcyber
+```
+
 bash digitalcyber.sh
-```
 ```
 
 `
