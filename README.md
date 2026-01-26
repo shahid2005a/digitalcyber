@@ -3,11 +3,12 @@ New repo
 
 ### TERMUX INSTALL CAMMAND
 ``
+
 pkg update && pkg upgrade -y
-pkg install git -y
-pkg install python python3 -y
-pkg install pip pip3 -y
-pkg install curl -y
+
+
+pkg install git
+
 
 ```
 ```
