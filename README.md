@@ -1,4 +1,4 @@
-# digitalcyber
+# Dgtltool
 New repo
 
 ### TERMUX INSTALL CAMMAND
@@ -7,17 +7,21 @@ New repo
 pkg update && pkg upgrade -y
 
 
+
+
 pkg install git
+
 
 
 ```
 git clone https://github.com/shahid2005a/digitalcyber.git
 
 
-```
 cd digitalcyber
+
 ```
 
+```
 bash digitalcyber.sh
 ```
 
