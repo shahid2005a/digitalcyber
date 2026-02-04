@@ -1,7 +1,12 @@
 # Dgtltool
-New repo
+New repo Tool 
+<h1>
+  <a href="https://youtube.com/shorts/bvx1OclDS0o?si=8IArD4WOuf6kovI4">
+    🎥 Demo Video: 
+  </a>
+</h1>
 
-### TERMUX INSTALL CAMMAND
+### 𝕋𝔼ℝ𝕄𝕌𝕏 𝕀ℕ𝕊𝕋𝔸𝕃𝕃 ℂ𝔸𝕄𝕄𝔸ℕ𝔻
 ``
 
 pkg update && pkg upgrade -y
@@ -10,6 +15,8 @@ pkg update && pkg upgrade -y
 
 
 pkg install git
+
+
 
 
 
@@ -22,7 +29,7 @@ cd digitalcyber
 ```
 
 ```
-bash digitalcyber.sh
+bash Dgtltool.sh
 ```
 
 `
