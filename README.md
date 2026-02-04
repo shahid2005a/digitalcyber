@@ -18,13 +18,12 @@ pkg install git
 
 
 
+cd digitalcyber
+
 
 
 ```
 git clone https://github.com/shahid2005a/digitalcyber.git
-
-
-cd digitalcyber
 
 ```
 
