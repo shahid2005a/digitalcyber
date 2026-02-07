@@ -8,25 +8,30 @@ New repo Tool
   </a>
 </h1>
 
-### 𝕋𝔼ℝ𝕄𝕌𝕏 𝕀ℕ𝕊𝕋𝔸𝕃𝕃 ℂ𝔸𝕄𝕄𝔸ℕ𝔻
-``
-
+### 𝕋𝔼ℝ𝕄𝕌𝕏 ℂ𝔸𝕄𝕄𝔸ℕ𝔻
+```
 pkg update && pkg upgrade -y
 
+pkg install python 
 
+pkg install php
 
+pkg install openssh 
 
-pkg install git
+pkg install nodejs 
 
+pkg install cloudflared
 
+pkg install git 
+```
+```
 
-cd digitalcyber
-
+git clone https://github.com/shahid2005a/digitalcyber.git
+```
 
 
 ```
-git clone https://github.com/shahid2005a/digitalcyber.git
-
+cd digitalcyber
 ```
 
 ```
